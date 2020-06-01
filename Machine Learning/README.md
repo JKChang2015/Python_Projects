@@ -1,3 +1,3 @@
 # Machine Learning
 ---
-![Alt text](./resources/machine learning.jpg)
+![Alt text](./resources/machine%20learning.jpg)
