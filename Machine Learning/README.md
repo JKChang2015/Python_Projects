@@ -1,3 +1,3 @@
-# Python_Projects
+# Machine Learning
 ---
-![Alt text](/resources/machine learning.jpg)
+![Alt text](./resources/machine learning.jpg)
