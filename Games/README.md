@@ -1,3 +1,3 @@
-# Python_Projects
+# Games
 ---
 ![Alt text](./resources/games.jpg)
