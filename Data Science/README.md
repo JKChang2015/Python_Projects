@@ -1,3 +1,3 @@
-# Python_Projects
+# Data Science
 ---
-![Alt text](/resources/data science.jpg)
+![Alt text](./resources/data science.jpg)
