@@ -1,2 +1,3 @@
 # Python_Projects
-Python projects
+---
+![Alt text](/resources/py-projects.jpg)
