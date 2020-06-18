@@ -1,12 +1,4 @@
-# -*- coding: UTF-8 -*-
-# File name: urls
-# Created by JKChang
-# 01/06/2020, 22:00
-# Tag:
-# Description: 路由控制文件，处理客户端请求，分发到对应的视图函数去处理。
-
-
-"""myweb URL Configuration
+"""mySite URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.0/topics/http/urls/
@@ -24,12 +16,6 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from django.contrib import admin
-from django.urls import path
-from . import views
-
-
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',index),
 ]
