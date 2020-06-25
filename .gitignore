@@ -94,3 +94,5 @@ large file/
 #.idea
 .idea
 .DS_Store
+
+instance/
