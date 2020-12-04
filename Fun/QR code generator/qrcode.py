@@ -5,7 +5,7 @@
 # Tag:
 # Description: 
 
-from MyQR import  myqr
+from MyQR import myqr
 
 myqr.run('https://github.com/JKChang2015', picture='./resources/shy.png',colorized=True,save_name='linkedin.png',save_dir='./results/')
 
