@@ -32,7 +32,7 @@ for barcode in barcodes:
 
     # 绘出图像上条形码的数据和条形码类型
     text = "{} ({})".format(barcodeData, barcodeType)
-    cv2.putText(image, text, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 2)
+    cv2.putText(image, text, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 2)
     print("[INFO] Found {} barcode: {}".format(barcodeType, barcodeData))
 # 展示输出图像
 cv2.imshow("Image", image)
