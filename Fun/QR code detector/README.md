@@ -5,5 +5,5 @@
 2. Read barcodes and QR codes in real-time
 
 ![Alt text](./results/QR_code_res.png)
-
 ![Alt text](./results/qr_res.gif)
+![Alt text](./results/barcode2_res.gif)
