@@ -1,6 +1,7 @@
-# Symbol Image
+# QR code detector
 
 ---
-Convert Image to Symbol
+1. Scan barcodes and QR codes in a single image
+2. Read barcodes and QR codes in real-time
 
 ![Alt text](./results/QR_code_res.png)
